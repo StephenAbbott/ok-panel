@@ -9,7 +9,7 @@
   elseif ($okfpanel_colour == 'white') :
     $okfpanel_ribbon .= 'white ';
   endif;
-  $okfpanel_ribbon .= 'ok-ribbon" href="https://okfn.org/"><img src="//a.okfn.org/html/oki/panel/assets/images/oki-ribbon.png" alt="Open Knowledge International"></a>';
+  $okfpanel_ribbon .= 'ok-ribbon" href="https://okfn.org/"><img src="//a.okfn.org/html/oki/panel/assets/images/oki-ribbon.png" alt="Open Knowledge Foundation"></a>';
 
   // Relative panel
 	function show_okfpanel() {
